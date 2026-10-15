@@ -1,0 +1,2 @@
+Write only file
+Message from writer1
